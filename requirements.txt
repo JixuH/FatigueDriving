@@ -1,0 +1,5 @@
+pygame
+watchdog
+pymysql
+PyQt5
+pydicom
